@@ -1,0 +1,29 @@
+        {
+  "project_info": {
+    "project_number": "929120705220",
+    "project_id": "glamifymeeee",
+    "storage_bucket": "glamifymeeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929120705220:android:5f336b36a831b893d84791",
+        "android_client_info": {
+          "package_name": "com.example.glamify_app_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_YEs_HiPAcFAIDkWAjgJ3Kxk6hSJf_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
